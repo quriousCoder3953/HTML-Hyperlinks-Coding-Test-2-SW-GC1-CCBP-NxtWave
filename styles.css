@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.profile-card {
+    margin: 10px;
+    height: 100vh;
+}
+
+.profile-image {
+    height: 30vh;
+    width: 40vw;
+}
+
+.profile-card-text-container {
+    margin: 5px;
+}
+
+.name {
+    font-size: 24px;
+}
+
+.description {
+    font-size: 14px;
+}
+
+.bio-image {
+    height: 50px;
+    width: 50px;
+}
+
+.title {
+    font-size: 24px;
+}
